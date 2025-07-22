@@ -113,6 +113,7 @@ CIGARETTE PACKETS ARE IN FANCY.DM
 	var/smoketime = 10 SECONDS
 	var/burnt_name = "burnt match"
 	w_class = SIZE_TINY
+	flags_obj = OBJ_IS_HELMET_GARB
 	light_range = 2
 	light_power = 1
 
